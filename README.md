@@ -1,1 +1,2 @@
-# Aladdin-project-final
+# AladdinAdventures
+A multi level game for Aladdin fans
